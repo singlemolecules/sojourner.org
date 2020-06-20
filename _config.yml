@@ -14,8 +14,9 @@ author: Sheng Liu
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Sojourner: "https://github.com/sheng-liu/sojourner"
+    - Manual: "https://bioconductor.org/packages/release/bioc/vignettes/sojourner/inst/doc/sojourner-vignette.html" 
+    - Sojourner.Pro: "https://github.com/sheng-liu/sojourner.pro"
   Author's home: "https://sheng-liu.github.io"
 
 # --- Logo --- #
