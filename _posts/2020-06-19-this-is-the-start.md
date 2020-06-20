@@ -6,9 +6,9 @@ cover-img: /assets/img/path.jpg
 tags: [professional]
 ---
 
-I created this site mean to communicate technical how-to and tips on single molecule data analysis. However, in this special hard time, I will start with my story. 
+I created this site mean to communicate technical how-to and tips on single molecule data analysis. However, in this special hard time, please allow me to start with my story. 
 
-In this Covid-19 pandemic, like everyone else, I am locked down at home in Vancouver Canada, even though I’ve located a research position in China. To be able to continue work on single molecule technologies; and get my bill paid. I am doing freelancing data analysis work, with the help of my friend. 
+During this Covid-19 pandemic, like everyone else, I am locked down at home in Vancouver Canada, even though I’ve located a research position in China. To be able to continue work on single molecule technologies, and get my bill paid. I am doing freelancing data analysis work, with the help of my friend. 
 
 If you have a need for single molecule data analysis, or you’ve met a problem during the process, I am here to help!
 
