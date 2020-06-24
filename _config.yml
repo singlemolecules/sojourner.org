@@ -17,6 +17,7 @@ navbar-links:
     - Sojourner: "https://github.com/sheng-liu/sojourner"
     - Manual: "https://bioconductor.org/packages/release/bioc/vignettes/sojourner/inst/doc/sojourner-vignette.html" 
     - Sojourner.Pro: "https://github.com/sheng-liu/sojourner.pro"
+    - Blog : "https://singlemolecules.github.io/sojourner.org/blog"
   Author's home: "https://sheng-liu.github.io"
 
 # --- Logo --- #
