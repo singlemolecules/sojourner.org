@@ -59,9 +59,10 @@ To be able to put more time on the code development of the Pro, we limit support
 
 These are the take home message of the commercial open source license for Sojourner.Pro:
 
-\- License. There are two kinds of licence, Group and Appliance. The Group license allows unlimited users within the user’s group; and the Appliance license allows users to embedding Sojourner.Pro into a product and redistribute it. 
+- License. There are two kinds of licence, Group and Appliance. The Group license allows unlimited users within the user’s group; and the Appliance license allows users to embedding Sojourner.Pro into a product and redistribute it. 
 
-\- Ownership. PubLab retains the ownership of the codebase at all times, including copyright and other intellectual property rights. User retains all the rights to any of his original work build upon Sojourner.Pro; whereas all the rights of his modifications to the Pro’s codebase, must be assigned to PubLab before it can be accepted. 
+- Ownership. PubLab retains the ownership of the codebase at all times, including copyright and other intellectual property rights. User retains all the rights to any of his original work build upon Sojourner.Pro; whereas all the rights of his modifications to the Pro’s codebase, must be assigned to PubLab before it can be accepted. 
 
-\- Reverse engineer. Under no circumstances may one use Sojourner.Pro as part of a product that provides similar functionality to the Pro itself. 
+- Reverse engineer. Under no circumstances may one use Sojourner.Pro as part of a product that provides similar functionality to the Pro itself. 
+
 

@@ -4,9 +4,7 @@ title: SERVICE
 subtitle: A Personal COVID-19 Emergency Response Act
 ---
 
-
-
-> During this Covid-19 pandemic, like many, I am locked down at home in Vancouver Canada, although I’ve located an associate investigator position and will serve as director of bioimaging center at Tongji university in China. I am expected to be onboarding once the disease ends in a few month; however for now, to be able to get my bills paid and continue work on single molecule data analysis, I am freelancing on data analysis during this period of time with my physicist colleague. After I am onboarded, I will continue provide support *Sojourner* and *Sojourner.Pro*. 
+> During this Covid-19 pandemic, like many, I am locked down at home in Vancouver Canada, although I’ve located an associate investigator position and will serve as director of Bioimaging Center at Tongji university in China. I am expected to be onboarding once the disease ends in a few month; however for now, to be able to get my bills paid and continue work on single molecule data analysis, I am freelancing on data analysis during this period of time with my physicist colleague. After I am onboarded, I won’t need to provide this service anymore, but my development and support for *Sojourner* and *Sojourner.Pro*. will continue if not more, as I myself will become the primary user.
 
 if you 
 
@@ -41,40 +39,33 @@ We help you solve problems in single molecule data analysis, in particular singl
 
 **PRICING**
 
-Subscription is billed **$2000 monthly** for **4h/day** average **~87h/month @ ~ $23/h** (equivalent to postdoc wage rate in the States).
+Subscription is billed **2000$ /month** for 87 hours /month, @4h/day, **23$/hour** (equivalent to postdoc wage rate in the States). You will automatically given a **one year subscription of *Sojourner.Pro*** and have analysis software built customized to your need.
 
-You will automatically given a one year subscription of *Sojourner.Pro* and have analysis software built customized to your need.
+Subscribe to the service when you needed it, cancel it when you are done. No fixed term contract. No hidden fees and tax included; 2 week money back guarantee if you are not satisfied with the solution. 
 
-Subscribe to the service when you needed it, cancel it when you are done. No fixed term contract. Besides, a 2 week grace period for money back, if you are not satisfied with the solution. 
+|                | SUMMARY                                                      |
+| -------------- | ------------------------------------------------------------ |
+| Service Period | July 1,2020~ Sep31, 2020 (till the two country become navigable) |
+| Service Rate   | 2000$ /month for 87 hours /month, @4h/day, 23$/hour          |
+| Provider       | Sheng Liu (primary), Biologist; Ling Wei (part time), Physicist |
+| Service On     | Single molecule trajectory analysis related topic            |
+| Service Form   | *Sojourner* and/ *Sojourner.Pro* related code development    |
 
-N.B We only intend to support two labs in total. Just need one lab subscription currently. 
+
+
+**SUBSCRIBE**
+
+If it all made sense to you so far, you can subscribe here. N.B We only intend to support two labs in total. Just need one lab subscription currently. 
 
 | Slots  | 1      | 2    |
 | ------ | ------ | ---- |
 | Status | Filled | ...  |
 
-
-
 [Subscribe]
 
-
-
-**CONTACT**
-
-If it all made sense to you so far, you can schedule a 15min session to see if we could be of help to you (below); or you can directly throw a feature request and see if the result satisfies your need.
-
-Schedule a evaluation meeting here
+Or, if you are not sure yet, you can schedule a 15min session to see if we could be of help to you (below); or you can directly throw a feature request and see if the result satisfies your need (sheng.liu@live.ca).
 
 <a href="https://app.acuityscheduling.com/schedule.php?owner=19997944" target="_blank" class="acuity-embed-button" style="background: #5fb8b9; color: #fff; padding: 8px 12px; border: 0px; -webkit-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;-moz-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;border-radius: 4px; text-decoration: none; display: inline-block;">Schedule Appointment</a><link rel="stylesheet" href="https://embed.acuityscheduling.com/embed/button/19997944.css" id="acuity-button-styles" /><script src="https://embed.acuityscheduling.com/embed/button/19997944.js" async></script>
 
-Or shoot me an email about your feature request sheng.liu@live.ca
-
-
-
-We are dedicated to open source solutions (see roadmap of the sojourner) . And making it sustainable. By subscribing to our service, you are supporting the development an open source community. 
-
-
-
-Sheng
-2020-06-22
+We are dedicated to sustainable open source solutions. By subscribing to our service, you are supporting the development a useful tool for the research community. 
 

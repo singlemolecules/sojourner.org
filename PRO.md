@@ -8,6 +8,8 @@ subtitle: Machine Learning of Single Molecule Trajectories
 
 > *Sojourner.Pro* is an add-on software for *Sojourner* with advanced analysis features. Given *Sojourner* focuses on biometric based statistical analysis; *Sojourner.pro* is all about applying machine learning and deep learning algorithms on biophysical metrics-based modelling; with the intend to further classify types of diffusion and states of the molecules. 
 
+**FEATURES**
+
 The machine learning algorithms in PRO currently includes Hidden Markov Model (HMM) and Artificial Neuron Network (ANN) (under develop) to predict molecule states and state associated parameters. They are primarily implemented in Python programing language with native integration of machine learning and deep learning libraries, and presented in R for ease-of-use for *Sojourner* users. Besides features, the PRO also comes with dedicated support through email. See table below for a detailed comparison.
 
 |                                   | **Sojourner**        | **PRO**          |
@@ -26,14 +28,17 @@ The machine learning algorithms in PRO currently includes Hidden Markov Model (H
 | License                           | Artistic  2.0        | Commercial       |
 | Pricing (Academic)                | Free                 | US$480  /year    |
 
+**UPDATES**
+
+*Sojourner.Pro* is currently still undr active development and will be officially released in July, 2020, at the price listed above. You can Subscribe to the PRO's newsletter to receive information about its release, features and usage tips. 
+
+Subscribe to email newsletter
+
 <center>[ Subscribe ]  </center>
 
-<center>No hidden fees. Tax included </center> 
-<center>Two week money back guarantee  </center>
 
-To know more about Sustainable Open Source Model that PRO is following, checkout the “Sustainable Open Source Model Q&A” on wiki page of *Sojourner*, it addresses "Why PRO", "Why buy when you can build for free", and "Why subscribe". 
 
-For information on team that is building the PRO, check SERVICE.
+To know more about Sustainable Open Source Model that the PRO is following, checkout the “Sustainable Open Source Model”  uner the Sojourner.Pro menu, it addresses why and how it is carried out. And the Commercial Open Source License answers the details how this model works in the case of Sojurner.Pro. 
 
 
 

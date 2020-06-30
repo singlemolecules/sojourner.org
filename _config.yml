@@ -15,8 +15,8 @@ navbar-links:
   SERVICE: "SERVICE"
   Sojourner.PRO: 
     - PRO: "PRO"
-    - Sus_OS_Model: "Sus-OS-Model"
-    - Com_OS_License: "Com-OS-License"
+    - Sustain.OS.Mod: "Sus-OS-Model"
+    - Com.OS.License: "Com-OS-License"
   AboutUs: "AboutUs"
   Resources:
     - Github: "https://github.com/sheng-liu/sojourner"

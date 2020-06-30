@@ -1,19 +1,22 @@
 ---
 layout: page
 title: About Us
+subtitle: The team that is building the PRO and Sojourner. 
 ---
 
 
 
-The Dev Team
+**The Dev Team**
 
-Sojourner and its PRO add-on are both Open Source project. One is free and supported by the community, the other requires subscription and supported by dedicated developers. Despite their difference, they work together to support each other, making them sustainable for the long term.   
+Sojourner and its PRO add-on are both Open Source projects aim to facilitate single molecule trajectory analysis. One is free and supported by the community, the other requires subscription and supported by dedicated developers. Despite their difference, they work together to support each other, making them sustainable for the long term.   
 
-We welcome everyone who is interested in Open Source or Scientific Computing to contribute. 
+We welcome everyone who is interested in Open Source or Scientific Computing to contribute. Here is a guide on why and how one can contribute. 
 
 [Here]: https://opensource.guide/how-to-contribute/	"open source guide"
 
-. The following people have made significant contributions to the Sojourner project (pictures to be added). 
+
+
+The following people have made significant contributions to the Sojourner project (pictures to be added). 
 
 [Sheng]: https://github.com/sheng-liu	"sheng-liu"
 [Sun]: https://github.com/snjy9182	"snjy9182"
