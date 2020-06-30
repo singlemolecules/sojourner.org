@@ -39,23 +39,34 @@ We help you solve problems in single molecule data analysis, in particular singl
 
 **PRICING**
 
-Subscription is billed **2000$ /month** for 87 hours /month, @4h/day, **23$/hour** (equivalent to postdoc wage rate in the States). You will automatically given a **one year subscription of *Sojourner.Pro*** and have analysis software built customized to your need.
+Subscription is billed **2000$ /month** for 87 hours /month @ 4h/day, **23$/hour** (equivalent to postdoc wage rate in the States). You will automatically be given a **One Year Subscription of *Sojourner.Pro*** and have analysis software built customized to your need.
 
 Subscribe to the service when you needed it, cancel it when you are done. No fixed term contract. No hidden fees and tax included; 2 week money back guarantee if you are not satisfied with the solution. 
 
-|                | SUMMARY                                                      |
-| -------------- | ------------------------------------------------------------ |
-| Service Period | July 1,2020~ Sep31, 2020 (till the two country become navigable) |
-| Service Rate   | 2000$ /month for 87 hours /month, @4h/day, 23$/hour          |
-| Provider       | Sheng Liu (primary), Biologist; Ling Wei (part time), Physicist |
-| Service On     | Single molecule trajectory analysis related topic            |
-| Service Form   | *Sojourner* and/ *Sojourner.Pro* related code development    |
+**SUBSCRIPTION**
 
-If it all made sense to you so far, you can subscribe here. N.B We only intend to support two labs in total. Just need one lab subscription currently. 
+|          | SUMMARY                                                      |
+| -------- | ------------------------------------------------------------ |
+| Service  | Customized Code Dev for Trajectory Analysis Features in Sojurner.Pro;<br/>One Year Subscription of *Sojourner.Pro* (free). |
+| Provider | Sheng Liu (primary), Biologist; Ling Wei (part time), Physicist; <br/>Under the umbrella entity PubLab. |
+| Period   | Starting July 1, 2020, Monthly Renew, Cancel Anytime; <br/>to Sep31, 2020 presumably, or to the two country become navigable |
+| Rate     | 2000$ /month for 87 hours /month @ 4h/day, 23$/hour; <br/>Invoiced Monthly. |
+
+Terms:
+
+By subscribe to our service, you agree to the copyright terms set by corresponding license: 
+
+Sojourner: [LGPL(v.3)](https://opensource.org/licenses/LGPL-3.0), copyLeft, to the package;<br/>Pro: [COMOS-LICENSE](https://github.com/sheng-liu/sojourner/blob/master/docs/COMOS-LICENSE.txt), copyright, to PubLab (the umbrella entity which holds PRO's copyright)
+
+N.B We only intend to support two labs in total. Just need one lab subscription currently. 
 
 | Slots  | 1      | 2    |
 | ------ | ------ | ---- |
-| Status | Filled | ...  |
+| Status | Filled | __   |
+
+If it all made sense to you so far, you can subscribe below by filling in the subscription form. Once the subscription is completed, a confirmation email with invoice of purchase will be sent to the subscriber for payment. You have a 14 day grace period for completing the payment to keep the subscription active.
+
+
 
 **[SUBSCRIBE](http://eepurl.com/g812FH)**
 
