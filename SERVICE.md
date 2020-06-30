@@ -51,17 +51,15 @@ Subscribe to the service when you needed it, cancel it when you are done. No fix
 | Service On     | Single molecule trajectory analysis related topic            |
 | Service Form   | *Sojourner* and/ *Sojourner.Pro* related code development    |
 
-
-
-**SUBSCRIBE**
-
 If it all made sense to you so far, you can subscribe here. N.B We only intend to support two labs in total. Just need one lab subscription currently. 
 
 | Slots  | 1      | 2    |
 | ------ | ------ | ---- |
 | Status | Filled | ...  |
 
-[Subscribe]
+**[SUBSCRIBE](http://eepurl.com/g812FH)**
+
+
 
 Or, if you are not sure yet, you can schedule a 15min session to see if we could be of help to you (below); or you can directly throw a feature request and see if the result satisfies your need (sheng.liu@live.ca).
 

@@ -52,11 +52,11 @@ All analysis results are represented with intuitive graphics for visualization. 
 
 We have applied performance enhancement strategies and graphical interface solutions available in R for a better use experience. This include, 
 
-1)   Parallel computation using parallel [ ] package and C implementation of the time restricting functions using Rcpp [ ] package to enhance the performance of the code. 
+1)   Parallel computation using parallel package and C implementation of the time restricting functions using Rcpp package to enhance the performance of the code. 
 
 2)   For ease-of-use purpose, we have implemented a graphical user interface (GUI) for most frequently used functions using Shinny package. It can be independently hosted as sever or launch from an R console for people who doesn’t usually use command line. 
 
-3)   We also have implemented supports for multiple trackers for convenience. It currently include Diatrack [ ], ImageJ plugin Particle Tracker[ ] and TrackMate[ ], MatLab based SLIMfast[ ] and u-track[ ].  Further supports can be easily added because of simple data structure we used. 
+3)   We also have implemented supports for multiple trackers for convenience. It currently include Diatrack, ImageJ plugin Particle Tracker and TrackMate, MatLab based SLIMfast and u-track.  Further supports can be easily added because of simple data structure we used. 
 
  
 
