@@ -20,15 +20,9 @@ For this purpose, it provides simple and easy to understand biophysical metrics,
 
 **1. Biophysical metrics**
 
-In the current version (v1.1), we have implemented four biophysical metrics, to benchmark or characterization of degree of diffusion or confinement of molecules without resorting to complex models. The four metrics are: 
+In the current version (v1.x), we have implemented four biophysical metrics, to benchmark or characterization of degree of diffusion or confinement of molecules without resorting to complex models. The four metrics are: 
 
-1)   Mean Square Displacement for measure types of diffusion; 
-
-2)   Diffusion coefficient to quantify degree of diffusion; 
-
-3)   Residence Time to quantify binding interactions; and 
-
-4)   Packing Coefficient for degree of confinement.
+1)   Mean Square Displacement for measure types of diffusion; <br/>2)   Diffusion coefficient to quantify degree of diffusion; <br/>3)   Residence Time to quantify binding interactions; and <br/>4)   Packing Coefficient for degree of confinement (under development) .
 
  
 

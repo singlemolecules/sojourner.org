@@ -64,7 +64,7 @@ N.B We only intend to support two labs in total. Just need one lab subscription 
 | ------ | ------ | ---- |
 | Status | Filled | __   |
 
-If it all made sense to you so far, you can subscribe below by filling in the subscription form. Once the subscription is completed, a confirmation email with invoice of purchase will be sent to the subscriber for payment. You have a 14 day grace period for completing the payment to keep the subscription active.
+If it all made sense to you so far, you can click "subscribe" below and fill in the required billing information. Once the subscription is completed, a confirmation email with invoice of purchase will be sent to the subscriber for payment. You have a 14 day grace period for completing the payment to keep the subscription active.
 
 
 
