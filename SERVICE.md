@@ -68,7 +68,7 @@ If it all made sense to you so far, you can click "subscribe" below and fill in 
 
 
 
-**[SUBSCRIBE](http://eepurl.com/g812FH)**
+<button name="Subscribe" onclick="location.href='http://eepurl.com/g812FH'">Subscribe</button>
 
 
 
