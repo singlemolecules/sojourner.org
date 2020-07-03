@@ -41,6 +41,8 @@ We help you solve problems in single molecule data analysis, in particular singl
 
 Subscription is billed **2000$ /month** for 87 hours /month @ 4h/day, **23$/hour** (equivalent to postdoc wage rate in the States). You will automatically be given a **One Year Subscription of *Sojourner.Pro*** and have analysis software built customized to your need.
 
+If you just have an **ad hoc** problem that you may like some extra help, please also subscribe below, it will be billed on the **hours we agreed upon**. And yes, you get the **One Year Subscription of *Sojourner.Pro*** as well. So our Subscription is really flexible, to the hours we agree upon, and you get your money back if you are not satisfied with the solution. 
+
 Subscribe to the service when you needed it, cancel it when you are done. No fixed term contract. No hidden fees and tax included; 2 week money back guarantee if you are not satisfied with the solution. 
 
 **SUBSCRIPTION**
@@ -50,7 +52,9 @@ Subscribe to the service when you needed it, cancel it when you are done. No fix
 | Service  | Customized Code Dev for Trajectory Analysis Features in Sojurner.Pro;<br/>One Year Subscription of *Sojourner.Pro* (free). |
 | Provider | Sheng Liu (primary), Biologist; Ling Wei (part time), Physicist; <br/>Under the umbrella entity PubLab. |
 | Period   | Starting July 1, 2020, Monthly Renew, Cancel Anytime; <br/>to Sep31, 2020 presumably, or to the two country become navigable |
-| Rate     | 2000$ /month for 87 hours /month @ 4h/day, 23$/hour; <br/>Invoiced Monthly. |
+| Rate     | 2000$ /month for 87 hours /month @ 4h/day, 23$/hour; <br/>Invoiced Monthly; Ad hoc analysis billed on the hours agreed upon. |
+
+
 
 Terms:
 
@@ -70,11 +74,11 @@ If it all made sense to you so far, you can click "subscribe" below and fill in 
 
 <button name="Subscribe" onclick="location.href='http://eepurl.com/g812FH'">Subscribe</button>
 
-
-
-Or, if you are not sure yet, you can schedule a 15min session to see if we could be of help to you (below); or you can directly throw a feature request and see if the result satisfies your need (sheng.liu@live.ca).
+Or, if you are not sure yet, you can schedule a 15min session to see if we could be of help to you (below).
 
 <a href="https://app.acuityscheduling.com/schedule.php?owner=19997944" target="_blank" class="acuity-embed-button" style="background: #5fb8b9; color: #fff; padding: 8px 12px; border: 0px; -webkit-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;-moz-box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;box-shadow: 0 -2px 0 rgba(0,0,0,0.15) inset;border-radius: 4px; text-decoration: none; display: inline-block;">Schedule Appointment</a><link rel="stylesheet" href="https://embed.acuityscheduling.com/embed/button/19997944.css" id="acuity-button-styles" /><script src="https://embed.acuityscheduling.com/embed/button/19997944.js" async></script>
+
+Or simply <a href="mailto:sheng.liu@live.ca?subject=Feature request for Sojourner Pro">Send Email</a> to me on a eature request and see if the result satisfies your need.
 
 We are dedicated to sustainable open source solutions. By subscribing to our service, you are supporting the development a useful tool for the research community. 
 
