@@ -25,9 +25,9 @@ This is an interesting topic. It can be answered at least from these four perspe
 
 3. Cost. Free can be more expensive at times. Baremetrics has made a [Build vs Buy](https://baremetrics.com/build-vs-buy) calculator. Let’s make an optimistic assumption that everything goes just as expected, a postdoc finds the required packages and build the full sets of features and tested it all work well together with a month, this is the cost of build and savings annually. 
 
-   <img src="file:////Users/shengliu/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png" alt="Build vs Buy Description  automatically generated" style="zoom:40%;" />
+   <img src="{{ site.url }}/assets/img/build-buy1.png" alt="Build vs Buy 1" style="zoom:40%;" />
 
-   <img src="file:////Users/shengliu/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png" alt="Build vs Buy 2  Description automatically generated" style="zoom:26%;" />
+   <img src="{{ site.url }}/assets/img/build-buy2.png" alt="Build vs Buy 2" style="zoom:26%;" />
 
    The number spoken for themselves. It worth it when there is no solution what’s so ever. When there is already a commercial solution with dedicated support, it may make sense to buy than to build.  
 
