@@ -16,9 +16,9 @@ We are here to help!
 
 **ABOUT US**
 
-I worked on single molecule data analysis during my postdoc at Johns Hopkins University, see my work here; and epigenomic sequencing data analysis during my PhD at University of British Columbia, here is my code and paper.
+I worked on single molecule data analysis during my postdoc at Johns Hopkins University; and epigenomic sequencing data analysis during my PhD at University of British Columbia (see my CV [here]({{ site.url }}/assets/pdf/CV-Sheng Liu.pdf)).
 
-So, I think it is fair to say I have a good amount of experience in the computational biology. And what’s more, this time I am teaming up with Dr. Ling Wei, my formal physicist colleagues at JHU (see her work here) for the analysis. She had her PhD in soft matter physics, and would chime in on a part-time basis to help out the physics side of things.
+So, I think it is fair to say I have a good amount of experience in the computational biology. And what’s more, this time I am teaming up with Dr. Ling Wei, my formal physicist colleagues at JHU (see her work [here]({{ site.url }}/assets/pdf/Publications-Ling Wei.pdf)) for the analysis. She had her PhD in soft matter physics, and would chime in on a part-time basis to help out the physics side of things.
 
 **SERVICE**
 

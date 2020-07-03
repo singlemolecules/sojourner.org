@@ -10,7 +10,7 @@ subtitle: Statistical Analysis of Single Molecule Trajectories
 
 
 
-*Sojourner* is designed primarily for deriving biophysical metrics, such as diffusion coefficient and residence time, from single molecule trajectory data in fast tracking and slow tracking experiments (as in our published [paper]({{ site.url }}/assets/img/elife-55667-v2.pdf)), and applying statistical analysis on the derived biophysical metrics to have a firsthand intuitive understanding of the data. 
+*Sojourner* is designed primarily for deriving biophysical metrics, such as diffusion coefficient and residence time, from single molecule trajectory data in fast tracking and slow tracking experiments (as in our published [paper]({{ site.url }}/assets/pdf/elife-55667-v2.pdf)), and applying statistical analysis on the derived biophysical metrics to have a firsthand intuitive understanding of the data. 
 
 It is mean to provide a framework for single molecule analysis using only simple biophysical metrics and commonly-used statistics to reveal patterns of data for biology researchers; The intended purpose is to serve as an initial run of data for a firsthand intuitive feeling of the raw data with most basic well understood statistics; and may resort to other advanced analysis after. 
 
