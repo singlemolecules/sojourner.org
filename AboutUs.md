@@ -10,11 +10,19 @@ subtitle: The team that is building the PRO and Sojourner.
 
 **The Dev Team**
 
-We welcome everyone who is interested in Open Source or Scientific Computing to contribute (here is a guide on why and how one can [contribute][contribute]). The following people have made significant contributions to the *Sojourner* project (pictures to be added). 
+We welcome everyone who is interested in Open Source or Scientific Computing to contribute (here is a guide on why and how one can [contribute][contribute]). The following people are contributing to the development of the projects: 
 
-[Sheng][Sheng], 	[Sun Jay][Sun],	[Xiaona][Xiaona],	[Yungsoo][Yungsoo].
+The PRO team
 
-[Ling]() and I are working on the Pro currently. [Hin][Hin] had just joined the party, and is developing some cool features for *Sojourner*. 
+| <img src="{{ site.url }}/assets/img/Photo_Sheng.jpg" alt="Photo_Sheng" style="zoom:25%;" /> | <img src="{{ site.url }}/assets/img/Photo_Ling.jpg" alt="Photo_Ling" style="zoom:25%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Sheng][Sheng]                                               | [Ling]()                                                     |
+
+The Sojourner team (pictures...)
+
+[Sheng][Sheng], 	[Sun Jay][Sun],	[Xiaona][Xiaona],	[Yungsoo][Yungsoo]; 
+
+[Hin][Hin] had just joined the party, and is developing some cool features for *Sojourner*. 
 
 We thank everyone who had contributed ideas, code snippets, bug report, feature request.... Thanks for being part of this attampting for an open source solution to single molecule data analysis.
 
