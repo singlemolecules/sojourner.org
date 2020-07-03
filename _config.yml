@@ -19,8 +19,9 @@ navbar-links:
     - Com.OS.License: "Com-OS-License"
   AboutUs: "AboutUs"
   Resources:
+    - BioC: "https://bioconductor.org/packages/sojourner/"
     - Github: "https://github.com/sheng-liu/sojourner"
-    - Manual: "https://bioconductor.org/packages/release/bioc/vignettes/sojourner/inst/doc/sojourner-vignette.html" 
+    - Vignette: "https://bioconductor.org/packages/release/bioc/vignettes/sojourner/inst/doc/sojourner-vignette.html" 
     - Reference: "https://sheng-liu.github.io/sojourner/"
 #  Blog : "https://singlemolecules.github.io/sojourner.org/blog"
 
