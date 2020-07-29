@@ -14,7 +14,7 @@ We welcome everyone who is interested in Open Source or Scientific Computing to 
 
 The PRO team
 
-| <img src="{{ site.url }}/assets/img/Photo_Sheng.jpg" alt="Photo_Sheng" style="zoom:25%;" /> | <img src="{{ site.url }}/assets/img/Photo_Ling.jpg" alt="Photo_Ling" style="zoom:25%;" /> |
+| <img src="{{ site.url }}/assets/img/Photo_Sheng.png" alt="Photo_Sheng" style="zoom:25%;" /> | <img src="{{ site.url }}/assets/img/Photo_Ling.jpg" alt="Photo_Ling" style="zoom:25%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Sheng][Sheng]                                               | [Ling]()                                                     |
 
